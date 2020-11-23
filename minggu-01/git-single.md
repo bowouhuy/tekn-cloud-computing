@@ -34,6 +34,6 @@ $ git config --list
 
 Nanti akan muncul list konfigurasi di komputer kita : 
 
-![konfigurasi](images/konfigurasi.png)
+![konfigurasi](images/konfigurasi.PNG)
 
 Konfigurasi ini cukup dilakukan sekali saja.
