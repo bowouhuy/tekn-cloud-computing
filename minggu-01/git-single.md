@@ -11,7 +11,7 @@ Untuk mencoba test kalau git sudah terinstall bisa menggunakan perintah
 ```sh
 $ git --version
 ```
-![install](images/install.png)
+![install](images/install.PNG)
 
 Untuk installasinya kurang lebih seperti itu dan cukup mudah dipahami dengan hanya membaca instruksi saat installasi.
 
