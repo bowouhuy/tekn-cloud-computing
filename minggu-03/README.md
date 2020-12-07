@@ -4,7 +4,7 @@
 
 [Rangkuman Paas](rangkuman-paas.md)
 
-[Signup Heroku](sign-ip-heroku.md)
+[Signup Heroku](sign-up-heroku.md)
 
 [Create App melalui Dashboard](create-app.md)
 
